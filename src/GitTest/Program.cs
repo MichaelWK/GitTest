@@ -19,7 +19,7 @@ namespace GitTest
                 .Build();
 
             host.Run();
-            //hello jj
+            //hello jj2
         }
     }
 }
