@@ -19,7 +19,6 @@ namespace GitTest
                 .Build();
 
             host.Run();
-            //hell
         }
     }
 }
